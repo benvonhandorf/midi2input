@@ -1,6 +1,0 @@
-[submodule "include/libevdev"]
-	path = include/libevdev
-	url = https://gitlab.freedesktop.org/libevdev/libevdev.git
-[submodule "libevdev"]
-	path = libevdev
-	url = https://gitlab.freedesktop.org/libevdev/libevdev.git
